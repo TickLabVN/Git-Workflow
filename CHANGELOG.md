@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/TickLabVN/git-workflow/compare/v1.0.0...v1.1.0) (2023-10-01)
+
+
+### Features
+
+* adding script to automate appending a new line ([5a489b9](https://github.com/TickLabVN/git-workflow/commit/5a489b94a75b907822d65d30bf2a8ce9d63bfff9))
+
 ## 1.0.0 (2023-10-01)
 
 
